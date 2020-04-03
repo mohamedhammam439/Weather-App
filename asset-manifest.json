@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.e4ea3af6.chunk.css",
+    "main.js": "/Weather-App/static/js/main.c0d2af4a.chunk.js",
+    "main.js.map": "/Weather-App/static/js/main.c0d2af4a.chunk.js.map",
+    "runtime-main.js": "/Weather-App/static/js/runtime-main.95892be8.js",
+    "runtime-main.js.map": "/Weather-App/static/js/runtime-main.95892be8.js.map",
+    "static/js/2.f79569f0.chunk.js": "/Weather-App/static/js/2.f79569f0.chunk.js",
+    "static/js/2.f79569f0.chunk.js.map": "/Weather-App/static/js/2.f79569f0.chunk.js.map",
+    "index.html": "/Weather-App/index.html",
+    "precache-manifest.dfd38f07b699a51741e60e61cb4d16f8.js": "/Weather-App/precache-manifest.dfd38f07b699a51741e60e61cb4d16f8.js",
+    "service-worker.js": "/Weather-App/service-worker.js",
+    "static/css/main.e4ea3af6.chunk.css.map": "/Weather-App/static/css/main.e4ea3af6.chunk.css.map",
+    "static/js/2.f79569f0.chunk.js.LICENSE.txt": "/Weather-App/static/js/2.f79569f0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Weather-App/static/media/free-weather-background-hd-wallpapers-windows-apple-amazing-4k-samsung-wallpapers-free-download-1920x1080.8baf47ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95892be8.js",
+    "static/js/2.f79569f0.chunk.js",
+    "static/css/main.e4ea3af6.chunk.css",
+    "static/js/main.c0d2af4a.chunk.js"
+  ]
+}
